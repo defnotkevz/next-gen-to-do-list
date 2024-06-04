@@ -17,7 +17,6 @@ export default function Home() {
               placeholder="Description"
             />
           </div>
-
           <hr />
           <div className="flex items-center">
             <div className="w-1/2">
